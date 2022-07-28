@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Study\Computer\408\Data Structure\Learn again\Linear_List2\Linear_List2\main.cpp(19,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-C:\Study\Computer\408\Data Structure\Learn again\Linear_List2\Linear_List2\main.cpp(37,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  Linear_List2.vcxproj -> C:\Study\Computer\408\Data Structure\Learn again\Linear_List2\Debug\Linear_List2.exe
