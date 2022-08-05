@@ -1,8 +1,0 @@
-﻿  main.cpp
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(31,23): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(245,26): error C2664: “Status StrAssign(char [],char *)”: 无法将参数 2 从“const char [5]”转换为“char *”
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(245,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(24,8): message : 参见“StrAssign”的声明
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(258,29): error C2664: “Status StrAssign(char [],char *)”: 无法将参数 2 从“const char [8]”转换为“char *”
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(258,20): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
-C:\Study\Computer\408\Data Structure\Learn again\String\String\main.cpp(24,8): message : 参见“StrAssign”的声明
